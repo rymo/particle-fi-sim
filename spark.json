@@ -1,0 +1,7 @@
+{
+    "name": "project-fi-sim",
+    "version": "0.0.1",
+    "author": "Ryan Mott <ryan.mott@gmail.com>",
+    "license": "MIT",
+    "description": "Configure Electron to use Project FI SIM settings (APN and ping interval)"
+}
